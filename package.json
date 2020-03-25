@@ -1,0 +1,12 @@
+{
+  "name": "node-x-xboxdrv",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Kaio Delphino",
+  "main": "xbox.mjs",
+  "scripts": {
+    "start": "node xbox.mjs --experimental-modules"
+  },
+  "dependencies": {
+  }
+}
