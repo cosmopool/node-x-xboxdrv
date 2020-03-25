@@ -9,7 +9,7 @@ Linux
 xboxdrv
 ##Usage ######Note that you should run your program with sudo as xboxdrv may not be able to open the controller otherwise.
 
-import xbox from 'node-x-xboxdrv'
-const controller = xbox()
+import xbox from 'node-x-xboxdrv';
+const controller = xbox();
 
 All the relevant input names can be found in config.json.
