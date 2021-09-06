@@ -7,7 +7,8 @@ This node module creates binding to xboxdrv. The main purpose of this is to crea
 
 Linux
 xboxdrv
-## Usage ######Note that you should run your program with sudo as xboxdrv may not be able to open the controller otherwise.
+## Usage
+###### Note that you should run your program with sudo as xboxdrv may not be able to open the controller otherwise.
 
 ```javascript
 import xbox from 'node-x-xboxdrv';
