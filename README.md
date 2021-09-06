@@ -1,13 +1,13 @@
-#node-x-xboxdrv
+# node-x-xboxdrv
 heavily inspired by: Jabbath/node-xboxdrv
 
 This node module creates binding to xboxdrv. The main purpose of this is to create an alternate Xbox controller module which does not rely on node-hid.
 
-##Prerequisites
+## Prerequisites
 
 Linux
 xboxdrv
-##Usage ######Note that you should run your program with sudo as xboxdrv may not be able to open the controller otherwise.
+## Usage ######Note that you should run your program with sudo as xboxdrv may not be able to open the controller otherwise.
 
 ```javascript
 import xbox from 'node-x-xboxdrv';
